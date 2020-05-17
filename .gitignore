@@ -1,0 +1,17 @@
+#data directory that i keep locally
+data/*
+
+#specific file types that might be too big
+**.tif
+**.geojson
+**.json
+**.tiff
+**.png
+**.dem
+**.zip
+
+#jupyter stuff
+.ipynb_checkpoints
+
+#system files
+**.DS_Store
